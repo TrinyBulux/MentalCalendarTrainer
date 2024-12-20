@@ -8,9 +8,9 @@ body {
 
     padding: 0;
 
-    background: linear-gradient(to bottom, #1e3c72, #2a5298);
+    background: linear-gradient(to bottom, #303030, #181818);
 
-    color: white;
+    color: rgb(255, 255, 255);
 
     display: flex;
 
@@ -40,7 +40,7 @@ h1 {
 
 .question {
 
-    font-size: 20px;
+    font-size: 54px;
 
     margin-bottom: 20px;
 
@@ -60,11 +60,11 @@ h1 {
 
 button {
 
-    padding: 10px 15px;
+    padding: 20px 30px;
 
-    font-size: 16px;
+    font-size: 30px;
 
-    background-color: #4CAF50;
+    background-color: #369c38;
 
     border: none;
 
@@ -82,13 +82,13 @@ button {
 
 button:hover {
 
-    background-color: #45a049;
+    background-color: #369c38;
 
 }
 
 button:active {
 
-    background-color: #3e8e41;
+    background-color: #e0c111;
 
 }
 
